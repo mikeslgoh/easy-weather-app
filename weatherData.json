@@ -1,0 +1,954 @@
+{
+	"name": "Vancouver",
+	"region": "British Columbia",
+	"country": "Canada",
+	"currentMetricData": {
+		"lastUpdated": "2024-06-16 10:30",
+		"temperature": 9.1,
+		"weatherCondition": {
+			"code": 1153,
+			"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+			"text": "Light drizzle"
+		},
+		"windSpeed": 10.1,
+		"airPressure": 1018,
+		"precipitationLevel": 0.56,
+		"humidity": 94,
+		"feelsLike": 7.5,
+		"windchill": 0,
+		"heatIndex": 9.1,
+		"dewPoint": 8.1,
+		"uv": 2
+	},
+	"currentImperialData": {
+		"lastUpdated": "2024-06-16 10:30",
+		"temperature": 48.3,
+		"weatherCondition": {
+			"code": 1153,
+			"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+			"text": "Light drizzle"
+		},
+		"windSpeed": 6.3,
+		"airPressure": 30.07,
+		"precipitationLevel": 0.02,
+		"humidity": 94,
+		"feelsLike": 45.5,
+		"windchill": 0,
+		"heatIndex": 48.3,
+		"dewPoint": 46.5,
+		"uv": 2
+	},
+	"futureForecastData": [
+		{
+			"date": "2024-06-16",
+			"day": {
+				"maxtemp_c": 12.8,
+				"maxtemp_f": 55,
+				"mintemp_c": 9,
+				"mintemp_f": 48.1,
+				"daily_chance_of_rain": 97,
+				"uv": 2
+			},
+			"astro": {
+				"sunrise": "05:07 AM",
+				"sunset": "09:21 PM"
+			},
+			"hourMetric": [
+				{
+					"time": "2024-06-16 00:00",
+					"temperature": 9.3,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 11.5,
+					"airPressure": 1019,
+					"precipitationLevel": 0.03,
+					"humidity": 88,
+					"feelsLike": 7.8,
+					"windchill": 0,
+					"heatIndex": 9.3,
+					"dewPoint": 7.1,
+					"chanceOfRain": 86,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 01:00",
+					"temperature": 9.1,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 11.9,
+					"airPressure": 1019,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 7.4,
+					"windchill": 0,
+					"heatIndex": 9.1,
+					"dewPoint": 6.9,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 02:00",
+					"temperature": 9,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 12.6,
+					"airPressure": 1019,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 7.1,
+					"windchill": 0,
+					"heatIndex": 9,
+					"dewPoint": 6.9,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 03:00",
+					"temperature": 8.9,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 12.2,
+					"airPressure": 1019,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 6.9,
+					"windchill": 0,
+					"heatIndex": 8.9,
+					"dewPoint": 6.8,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 04:00",
+					"temperature": 8.9,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 13,
+					"airPressure": 1019,
+					"precipitationLevel": 0.01,
+					"humidity": 87,
+					"feelsLike": 6.8,
+					"windchill": 0,
+					"heatIndex": 8.9,
+					"dewPoint": 6.8,
+					"chanceOfRain": 68,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 05:00",
+					"temperature": 8.8,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 13.7,
+					"airPressure": 1019,
+					"precipitationLevel": 0.01,
+					"humidity": 88,
+					"feelsLike": 6.7,
+					"windchill": 0,
+					"heatIndex": 8.8,
+					"dewPoint": 7,
+					"chanceOfRain": 83,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 06:00",
+					"temperature": 8.8,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 13.3,
+					"airPressure": 1019,
+					"precipitationLevel": 0.06,
+					"humidity": 90,
+					"feelsLike": 6.8,
+					"windchill": 0,
+					"heatIndex": 8.8,
+					"dewPoint": 7.2,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 07:00",
+					"temperature": 8.9,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 11.9,
+					"airPressure": 1019,
+					"precipitationLevel": 0.35,
+					"humidity": 91,
+					"feelsLike": 7,
+					"windchill": 0,
+					"heatIndex": 8.9,
+					"dewPoint": 7.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 08:00",
+					"temperature": 8.9,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 10.4,
+					"airPressure": 1018,
+					"precipitationLevel": 0.63,
+					"humidity": 93,
+					"feelsLike": 7.2,
+					"windchill": 0,
+					"heatIndex": 8.9,
+					"dewPoint": 7.8,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 09:00",
+					"temperature": 9,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 9.7,
+					"airPressure": 1018,
+					"precipitationLevel": 0.67,
+					"humidity": 94,
+					"feelsLike": 7.3,
+					"windchill": 0,
+					"heatIndex": 9,
+					"dewPoint": 8,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 10:00",
+					"temperature": 9.1,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 10.1,
+					"airPressure": 1018,
+					"precipitationLevel": 0.56,
+					"humidity": 94,
+					"feelsLike": 7.5,
+					"windchill": 0,
+					"heatIndex": 9.1,
+					"dewPoint": 8.1,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 11:00",
+					"temperature": 9.3,
+					"weatherCondition": {
+						"code": 1240,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/353.png",
+						"text": "Light rain shower"
+					},
+					"windSpeed": 9.7,
+					"airPressure": 1018,
+					"precipitationLevel": 0.27,
+					"humidity": 92,
+					"feelsLike": 7.7,
+					"windchill": 0,
+					"heatIndex": 9.2,
+					"dewPoint": 8,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 12:00",
+					"temperature": 9.6,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 10.4,
+					"airPressure": 1018,
+					"precipitationLevel": 0.06,
+					"humidity": 92,
+					"feelsLike": 8,
+					"windchill": 0,
+					"heatIndex": 9.6,
+					"dewPoint": 8.2,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 13:00",
+					"temperature": 9.7,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 11.5,
+					"airPressure": 1018,
+					"precipitationLevel": 0.07,
+					"humidity": 89,
+					"feelsLike": 8,
+					"windchill": 0,
+					"heatIndex": 9.7,
+					"dewPoint": 8.2,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 14:00",
+					"temperature": 9.9,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 12.6,
+					"airPressure": 1018,
+					"precipitationLevel": 0.08,
+					"humidity": 89,
+					"feelsLike": 8.1,
+					"windchill": 0,
+					"heatIndex": 9.9,
+					"dewPoint": 8.1,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 15:00",
+					"temperature": 10.2,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 12.6,
+					"airPressure": 1017,
+					"precipitationLevel": 0.04,
+					"humidity": 87,
+					"feelsLike": 8.6,
+					"windchill": 0,
+					"heatIndex": 10.2,
+					"dewPoint": 8,
+					"chanceOfRain": 82,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 16:00",
+					"temperature": 10.7,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 11.2,
+					"airPressure": 1017,
+					"precipitationLevel": 0.02,
+					"humidity": 83,
+					"feelsLike": 9.4,
+					"windchill": 0,
+					"heatIndex": 10.7,
+					"dewPoint": 7.9,
+					"chanceOfRain": 89,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 17:00",
+					"temperature": 10.9,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 8.6,
+					"airPressure": 1016,
+					"precipitationLevel": 0,
+					"humidity": 79,
+					"feelsLike": 10.2,
+					"windchill": 0,
+					"heatIndex": 10.9,
+					"dewPoint": 7.6,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 18:00",
+					"temperature": 11.2,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 5.4,
+					"airPressure": 1016,
+					"precipitationLevel": 0,
+					"humidity": 77,
+					"feelsLike": 10.9,
+					"windchill": 0,
+					"heatIndex": 11.2,
+					"dewPoint": 7.4,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 19:00",
+					"temperature": 11.3,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 4,
+					"airPressure": 1015,
+					"precipitationLevel": 0,
+					"humidity": 76,
+					"feelsLike": 11.2,
+					"windchill": 0,
+					"heatIndex": 11.3,
+					"dewPoint": 7.3,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 20:00",
+					"temperature": 10.7,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 4.7,
+					"airPressure": 1015,
+					"precipitationLevel": 0,
+					"humidity": 76,
+					"feelsLike": 10.7,
+					"windchill": 0,
+					"heatIndex": 10.7,
+					"dewPoint": 7.4,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 21:00",
+					"temperature": 10.2,
+					"weatherCondition": {
+						"code": 1003,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+						"text": "Partly Cloudy "
+					},
+					"windSpeed": 2.9,
+					"airPressure": 1015,
+					"precipitationLevel": 0,
+					"humidity": 82,
+					"feelsLike": 10.2,
+					"windchill": 0,
+					"heatIndex": 10.2,
+					"dewPoint": 7.3,
+					"uv": 4
+				},
+				{
+					"time": "2024-06-16 22:00",
+					"temperature": 9.7,
+					"weatherCondition": {
+						"code": 1000,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+						"text": "Clear "
+					},
+					"windSpeed": 2.2,
+					"airPressure": 1015,
+					"precipitationLevel": 0,
+					"humidity": 84,
+					"feelsLike": 9.7,
+					"windchill": 0,
+					"heatIndex": 9.7,
+					"dewPoint": 7,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 23:00",
+					"temperature": 9.4,
+					"weatherCondition": {
+						"code": 1000,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+						"text": "Clear "
+					},
+					"windSpeed": 4.3,
+					"airPressure": 1015,
+					"precipitationLevel": 0,
+					"humidity": 85,
+					"feelsLike": 9.1,
+					"windchill": 0,
+					"heatIndex": 9.4,
+					"dewPoint": 6.9,
+					"uv": 1
+				}
+			],
+			"hourImperial": [
+				{
+					"time": "2024-06-16 00:00",
+					"temperature": 48.8,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 7.2,
+					"airPressure": 30.09,
+					"precipitationLevel": 0,
+					"humidity": 88,
+					"feelsLike": 46,
+					"windchill": 0,
+					"heatIndex": 48.8,
+					"dewPoint": 44.8,
+					"chanceOfRain": 86,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 01:00",
+					"temperature": 48.4,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 7.4,
+					"airPressure": 30.09,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 45.2,
+					"windchill": 0,
+					"heatIndex": 48.4,
+					"dewPoint": 44.5,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 02:00",
+					"temperature": 48.2,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 7.8,
+					"airPressure": 30.1,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 44.8,
+					"windchill": 0,
+					"heatIndex": 48.2,
+					"dewPoint": 44.4,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 03:00",
+					"temperature": 48,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 7.6,
+					"airPressure": 30.09,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 44.4,
+					"windchill": 0,
+					"heatIndex": 48,
+					"dewPoint": 44.3,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 04:00",
+					"temperature": 48,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 8.1,
+					"airPressure": 30.1,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 44.2,
+					"windchill": 0,
+					"heatIndex": 48,
+					"dewPoint": 44.3,
+					"chanceOfRain": 68,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 05:00",
+					"temperature": 47.9,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 8.5,
+					"airPressure": 30.09,
+					"precipitationLevel": 0,
+					"humidity": 88,
+					"feelsLike": 44.1,
+					"windchill": 0,
+					"heatIndex": 47.9,
+					"dewPoint": 44.6,
+					"chanceOfRain": 83,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 06:00",
+					"temperature": 47.9,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 8.3,
+					"airPressure": 30.08,
+					"precipitationLevel": 0,
+					"humidity": 90,
+					"feelsLike": 44.3,
+					"windchill": 0,
+					"heatIndex": 47.9,
+					"dewPoint": 45,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 07:00",
+					"temperature": 47.9,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 7.4,
+					"airPressure": 30.08,
+					"precipitationLevel": 0.01,
+					"humidity": 91,
+					"feelsLike": 44.6,
+					"windchill": 0,
+					"heatIndex": 47.9,
+					"dewPoint": 45.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 08:00",
+					"temperature": 48,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 6.5,
+					"airPressure": 30.07,
+					"precipitationLevel": 0.02,
+					"humidity": 93,
+					"feelsLike": 45,
+					"windchill": 0,
+					"heatIndex": 48,
+					"dewPoint": 46.1,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 09:00",
+					"temperature": 48.1,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 6,
+					"airPressure": 30.07,
+					"precipitationLevel": 0.03,
+					"humidity": 94,
+					"feelsLike": 45.2,
+					"windchill": 0,
+					"heatIndex": 48.1,
+					"dewPoint": 46.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 10:00",
+					"temperature": 48.3,
+					"weatherCondition": {
+						"code": 1153,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+						"text": "Light drizzle"
+					},
+					"windSpeed": 6.3,
+					"airPressure": 30.07,
+					"precipitationLevel": 0.02,
+					"humidity": 94,
+					"feelsLike": 45.5,
+					"windchill": 0,
+					"heatIndex": 48.3,
+					"dewPoint": 46.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 11:00",
+					"temperature": 48.7,
+					"weatherCondition": {
+						"code": 1240,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/353.png",
+						"text": "Light rain shower"
+					},
+					"windSpeed": 6,
+					"airPressure": 30.07,
+					"precipitationLevel": 0.01,
+					"humidity": 92,
+					"feelsLike": 45.9,
+					"windchill": 0,
+					"heatIndex": 48.6,
+					"dewPoint": 46.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 12:00",
+					"temperature": 49.3,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 6.5,
+					"airPressure": 30.07,
+					"precipitationLevel": 0,
+					"humidity": 92,
+					"feelsLike": 46.4,
+					"windchill": 0,
+					"heatIndex": 49.3,
+					"dewPoint": 46.7,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 13:00",
+					"temperature": 49.5,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 7.2,
+					"airPressure": 30.07,
+					"precipitationLevel": 0,
+					"humidity": 89,
+					"feelsLike": 46.5,
+					"windchill": 0,
+					"heatIndex": 49.5,
+					"dewPoint": 46.8,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 14:00",
+					"temperature": 49.8,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 7.8,
+					"airPressure": 30.05,
+					"precipitationLevel": 0,
+					"humidity": 89,
+					"feelsLike": 46.7,
+					"windchill": 0,
+					"heatIndex": 49.8,
+					"dewPoint": 46.5,
+					"chanceOfRain": 100,
+					"uv": 2
+				},
+				{
+					"time": "2024-06-16 15:00",
+					"temperature": 50.4,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 7.8,
+					"airPressure": 30.05,
+					"precipitationLevel": 0,
+					"humidity": 87,
+					"feelsLike": 47.6,
+					"windchill": 0,
+					"heatIndex": 50.4,
+					"dewPoint": 46.4,
+					"chanceOfRain": 82,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 16:00",
+					"temperature": 51.2,
+					"weatherCondition": {
+						"code": 1063,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+						"text": "Patchy rain nearby"
+					},
+					"windSpeed": 6.9,
+					"airPressure": 30.03,
+					"precipitationLevel": 0,
+					"humidity": 83,
+					"feelsLike": 48.9,
+					"windchill": 0,
+					"heatIndex": 51.2,
+					"dewPoint": 46.2,
+					"chanceOfRain": 89,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 17:00",
+					"temperature": 51.7,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 5.4,
+					"airPressure": 30.01,
+					"precipitationLevel": 0,
+					"humidity": 79,
+					"feelsLike": 50.4,
+					"windchill": 0,
+					"heatIndex": 51.7,
+					"dewPoint": 45.6,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 18:00",
+					"temperature": 52.1,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 3.4,
+					"airPressure": 29.99,
+					"precipitationLevel": 0,
+					"humidity": 77,
+					"feelsLike": 51.7,
+					"windchill": 0,
+					"heatIndex": 52.1,
+					"dewPoint": 45.3,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 19:00",
+					"temperature": 52.3,
+					"weatherCondition": {
+						"code": 1009,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+						"text": "Overcast "
+					},
+					"windSpeed": 2.5,
+					"airPressure": 29.98,
+					"precipitationLevel": 0,
+					"humidity": 76,
+					"feelsLike": 52.1,
+					"windchill": 0,
+					"heatIndex": 52.3,
+					"dewPoint": 45.2,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 20:00",
+					"temperature": 51.3,
+					"weatherCondition": {
+						"code": 1006,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+						"text": "Cloudy "
+					},
+					"windSpeed": 2.9,
+					"airPressure": 29.97,
+					"precipitationLevel": 0,
+					"humidity": 76,
+					"feelsLike": 51.2,
+					"windchill": 0,
+					"heatIndex": 51.3,
+					"dewPoint": 45.3,
+					"uv": 3
+				},
+				{
+					"time": "2024-06-16 21:00",
+					"temperature": 50.3,
+					"weatherCondition": {
+						"code": 1003,
+						"icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+						"text": "Partly Cloudy "
+					},
+					"windSpeed": 1.8,
+					"airPressure": 29.97,
+					"precipitationLevel": 0,
+					"humidity": 82,
+					"feelsLike": 50.3,
+					"windchill": 0,
+					"heatIndex": 50.3,
+					"dewPoint": 45.1,
+					"uv": 4
+				},
+				{
+					"time": "2024-06-16 22:00",
+					"temperature": 49.5,
+					"weatherCondition": {
+						"code": 1000,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+						"text": "Clear "
+					},
+					"windSpeed": 1.3,
+					"airPressure": 29.98,
+					"precipitationLevel": 0,
+					"humidity": 84,
+					"feelsLike": 49.4,
+					"windchill": 0,
+					"heatIndex": 49.5,
+					"dewPoint": 44.7,
+					"uv": 1
+				},
+				{
+					"time": "2024-06-16 23:00",
+					"temperature": 48.9,
+					"weatherCondition": {
+						"code": 1000,
+						"icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+						"text": "Clear "
+					},
+					"windSpeed": 2.7,
+					"airPressure": 29.98,
+					"precipitationLevel": 0,
+					"humidity": 85,
+					"feelsLike": 48.5,
+					"windchill": 0,
+					"heatIndex": 48.9,
+					"dewPoint": 44.4,
+					"uv": 1
+				}
+			]
+		}
+	]
+}
